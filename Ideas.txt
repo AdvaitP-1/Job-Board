@@ -1,0 +1,21 @@
+Things to integrate:
+	- Job Board Name
+	- Ai Services
+		- Resume Tailor
+		- Cover Letter Writer
+		- Job Table
+	- Payment Plan $25/month
+	- Personal User Profile
+
+
+What to finish Right now:
+	- React Crash Course
+	- Next.JS Authentication
+	- User dashboard
+	- Job Git Repo Scrape API
+	- Database
+
+Need to Figure out:
+	- Payment system
+	- LinkedIn Integration
+	- Website Hosting
